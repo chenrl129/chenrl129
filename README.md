@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Robert Chen, a passionate software engineer with experience in various programming languages and technologies. I'm a Computer Science student at the University of Maryland, College Park, and an active contributor to open-source projects.
+👋 Hi, I'm Bobby Chen, a passionate software engineer with experience in various programming languages and technologies. I'm a Computer Science student at the University of Maryland, College Park, and an active contributor to open-source projects.
 
 💼 I have experience working with companies like Tesla, Intel Corporation, and National Institutes of Health, and I'm always excited to learn and explore new technologies.
 
