@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm a third-year computer science student at the University of Maryland with an interest in infrastructure and software QA. 
+👋 Hi, I'm Robert Chen, a passionate software engineer with experience in various programming languages and technologies. I'm a Computer Science student at the University of Maryland, College Park, and an active contributor to open-source projects.
 
+💼 I have experience working with companies like Tesla, Intel Corporation, and National Institutes of Health, and I'm always excited to learn and explore new technologies.
+
+🚀 Check out my repositories below to see some of my work, and don't forget to give a ⭐ if you find them interesting or useful!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bobbychen1337/) 
