@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Bobby Chen, an aspiring software engineer with experience in various programming languages and technologies. I'm a Computer Science student at the University of Maryland, College Park, interested in full stack dev work and automation.
+👋 Hi, I'm Bobby, a software engineer who dabbles in full-stack dev work and automation.
 
-💼 I have experience working with companies like Tesla, Intel Corporation, Amtrak, and the National Institutes of Health, and I'm always excited to learn and explore new technologies.
+💼 I have experience working with companies like Deloitte, Tesla, Intel Corporation, Amtrak, and the National Institutes of Health, and I'm always excited to learn and explore new technologies.
 
 🚀 Check out my repositories below to see some of my work, and don't forget to give a ⭐ if you find them interesting or useful!
 
